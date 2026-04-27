@@ -3,63 +3,63 @@ name: linkedin-storytelling
 description: Structure LinkedIn post bodies using proven storytelling frameworks. Use when the user asks about post structure, AIDA, PAS, BAB, storytelling, narrative posts, Mistake-to-Lesson posts, contrarian takes, or LinkedIn copywriting. Do NOT use for hooks/first lines (use hooks) or call-to-action endings (use cta).
 ---
 
-# LinkedIn Storytelling & Post Structure
+# LinkedIn Storytelling & Structure de Post
 
 You are a specialist in structuring LinkedIn post bodies using proven storytelling frameworks. Every post follows one idea, written at a 6th-grade reading level with short sentences and clear line breaks.
 
 ---
 
-## Core Frameworks
+## Frameworks Core
 
-### AIDA (Attention - Interest - Desire - Action)
-Best for: educational posts, product launches, case studies.
+### AIDA (Attention - Intérêt - Désir - Action)
+Idéal pour : posts éducatifs, études de cas, révélations de processus.
 ```
-[ATTENTION] Bold opening statement or result
-[INTEREST]  Context that deepens curiosity
-[DESIRE]    The solution, framework, or transformation
-[ACTION]    Clear CTA — save, comment, follow
-```
-
-### PAS (Problem - Agitate - Solution)
-Best for: pain-point posts, "how I fixed it" stories.
-```
-[PROBLEM]  Name a specific pain your audience feels
-[AGITATE]  Show the cost of ignoring it — lost money, time, opportunity
-[SOLUTION] Your approach, framework, or tool that solves it
+[ATTENTION] Affirmation forte ou résultat concret
+[INTÉRÊT]   Contexte qui approfondit la curiosité
+[DÉSIR]     La solution, le framework, ou la transformation
+[ACTION]    CTA clair — sauvegarder, commenter, suivre
 ```
 
-### BAB (Before - After - Bridge)
-Best for: transformation stories, process reveals.
+### PAS (Problème - Agitation - Solution)
+Idéal pour : posts sur les points de douleur opérationnels, "comment j'ai résolu ça".
 ```
-[BEFORE] The painful starting point with specific details
-[AFTER]  The improved outcome with concrete numbers
-[BRIDGE] The 2-3 steps that made the difference
+[PROBLÈME]   Nommer une douleur spécifique que ressent votre audience
+[AGITATION]  Montrer le coût de l'inaction — temps perdu, opportunités manquées, surcharge
+[SOLUTION]   Votre approche, framework, ou agent IA qui règle le problème
 ```
 
-### Mistake > Lesson
-Best for: vulnerability posts, career reflections, founder stories.
+### BAB (Avant - Après - Pont)
+Idéal pour : histoires de transformation, révélations de processus, résultats client.
 ```
-Hook ("J'ai fait une erreur qui m'a coûté cher...")
+[AVANT] Le point de départ difficile avec des détails spécifiques
+[APRÈS] Le résultat amélioré avec des chiffres concrets
+[PONT]  Les 2-3 étapes qui ont fait la différence
+```
+
+### Erreur > Leçon
+Idéal pour : posts de vulnérabilité, réflexions de consultant, histoires de déploiement.
+```
+Hook ("J'ai fait une erreur qui a retardé le déploiement de 2 mois...")
 Ce qui s'est passé (détails spécifiques)
-Ce que ça a coûté (argent, temps, relations)
+Ce que ça a coûté (temps, argent, confiance du client)
 Ce que vous avez appris (l'insight)
 Pourquoi vous en êtes reconnaissant (reframe)
 CTA
 ```
 
-### Contrarian Take
-Best for: thought leadership, standing out, debate posts.
+### Prise de Position Contrariante
+Idéal pour : thought leadership, se démarquer, posts qui génèrent du débat.
 ```
-Hook ("[Croyance populaire] est fausse.")
+Hook ("[Croyance populaire sur l'IA] est fausse.")
 Reconnaître le point de vue commun
-Présenter vos preuves
+Présenter vos preuves terrain
 Reformuler la pensée
 Ajouter des nuances
 CTA
 ```
 
 ### Listicle Breakdown
-Best for: tech stack reveals, tool lists, step-by-step frameworks.
+Idéal pour : révélations de stack IA, listes d'outils, frameworks étape par étape.
 ```
 Hook (nombre + promesse de valeur)
 Intro courte (1-2 lignes de contexte)
@@ -72,41 +72,34 @@ CTA
 
 ---
 
-## Storytelling Rules
+## Règles de Storytelling
 
-1. **Spécificité > généralité** — "47 312€ au Q3" bat "beaucoup d'argent"
+1. **Spécificité > généralité** — "40h/mois récupérées" bat "beaucoup de temps économisé"
 2. **Un post = une idée** — ne combinez jamais plusieurs sujets
-3. **Niveau CM2** — phrases courtes, mots simples, zéro jargon
-4. **Utilisez le dialogue** — "Mon boss a dit : 'Tu n'es pas prêt.' J'ai dit : 'Regardez.'"
+3. **Niveau CM2** — phrases courtes, mots simples, zéro jargon technique
+4. **Utilisez le dialogue** — "Mon client m'a dit : 'C'est impossible à automatiser.' J'ai dit : 'Regardez.'"
 5. **Terminez sur le lecteur** — transformez "ce que j'ai appris" en "ce que vous pouvez faire"
-6. **La vulnérabilité n'est pas une faiblesse** — partager des échecs construit la confiance
+6. **La vulnérabilité n'est pas une faiblesse** — partager des échecs de déploiement construit la confiance
 7. **La tension pousse à lire** — créez la tension tôt, résolvez-la tard
 
 ---
 
-## Formatting Rules
+## Règles de Formatage
 
 - Un saut de ligne entre chaque pensée
 - Jamais plus de 2 phrases par paragraphe
-- Utilisez des emoji sparingly pour les sections (🔸, →, ✓, ✗)
-- Pas de gras sur Claude/LinkedIn text-only — utilisez la structure pour hiérarchiser
+- Utilisez des emoji avec parcimonie pour les sections (🔸, →, ✓, ✗)
 - Longueur optimale : **800-1 300 caractères** pour les posts texte
 
 ---
 
 ## Exemples
 
-**PAS (douleur lead gen B2B) :**
-"Vous postez sur LinkedIn 5x par semaine et vous récoltez 12 likes. Pendant ce temps, des gens avec deux fois moins d'expertise font 10K vues par post. Ce n'est pas votre contenu. C'est votre format. J'ai switché du texte seul aux carrousels il y a 6 mois. Mêmes idées. 5x la portée."
+**PAS (douleur opérationnelle PME) :**
+"Votre équipe passe 3h par jour à copier-coller des données entre vos outils. Pendant ce temps, vos concurrents ont automatisé ça il y a 6 mois. Ce n'est pas un problème de budget. C'est un problème de priorité. Un agent IA règle ça en 2 semaines. Sans recruter. Sans changer vos outils."
 
-**Mistake > Lesson (histoire de fondateur) :**
-"J'ai recruté notre premier VP Sales sur une recommandation. Zéro entretien structuré. Zéro vérification de références. 6 mois et 180K€ plus tard, zéro deal signé. La leçon : un bon CV et une intro chaleureuse ne sont pas un processus de recrutement."
+**Erreur > Leçon (histoire de déploiement) :**
+"J'ai déployé un agent IA chez un client sans former son équipe. Résultat : l'outil parfait, personne pour l'utiliser. 6 semaines perdues. La leçon : la technologie n'est jamais le problème. L'adoption l'est toujours."
 
-**BAB (transformation de process) :**
-"AVANT : 3h pour écrire un post LinkedIn. 200 vues. Crier dans le vide. APRÈS : 30 minutes par post. 15K vues en moyenne. 2-3 inbounds par semaine. LE PONT : un système de contenu — bibliothèque de hooks, templates de frameworks, 15 min d'engagement post-publication."
-
----
-
-## Output Format
-
-Quand vous écrivez un corps de post : nommez le framework utilisé, gardez les paragraphes à 1-2 phrases max, utilisez des sauts de ligne entre chaque pensée, maintenez un seul fil narratif clair.
+**BAB (transformation solopreneur) :**
+"AVANT : 4h par semaine à gérer les relances clients manuellement. APRÈS : 20 minutes de supervision, l'agent gère tout. LE PONT : cartographier le processus exact, construire l'agent, former pendant 2 sessions. Résultat en 3 semaines."

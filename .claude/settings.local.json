@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm -rf ~/.claude/skills/linkedin-content)",
+      "Bash(git clone *)",
+      "Bash(mkdir -p \"/Users/kenjijoachim/.claude/plugins/cache/local/linkedin-content/1.0.0/.claude-plugin\")",
+      "Bash(mkdir -p \"/Users/kenjijoachim/.claude/plugins/cache/local/linkedin-content/1.0.0/skills/linkedin-content\")",
+      "Bash(mkdir -p \"/Users/kenjijoachim/.claude/plugins/cache/local/linkedin-content/1.0.0/skills/hooks\")",
+      "Bash(mkdir -p \"/Users/kenjijoachim/.claude/plugins/cache/local/linkedin-content/1.0.0/skills/storytelling\")",
+      "Bash(mkdir -p \"/Users/kenjijoachim/.claude/plugins/cache/local/linkedin-content/1.0.0/skills/cta\")",
+      "Bash(cp '/Users/kenjijoachim/Desktop/AI consulting /linkedin-content/.claude/skills/hooks/SKILL.md' /Users/kenjijoachim/.claude/plugins/cache/local/linkedin-content/1.0.0/skills/hooks/SKILL.md)",
+      "Bash(cp '/Users/kenjijoachim/Desktop/AI consulting /linkedin-content/.claude/skills/storytelling/SKILL.md' /Users/kenjijoachim/.claude/plugins/cache/local/linkedin-content/1.0.0/skills/storytelling/SKILL.md)",
+      "Bash(cp '/Users/kenjijoachim/Desktop/AI consulting /linkedin-content/.claude/skills/cta/SKILL.md' /Users/kenjijoachim/.claude/plugins/cache/local/linkedin-content/1.0.0/skills/cta/SKILL.md)",
+      "Bash(cp '/Users/kenjijoachim/Desktop/AI consulting /linkedin-content/.claude/skills/formats/SKILL.md' /Users/kenjijoachim/.claude/plugins/cache/local/linkedin-content/1.0.0/skills/formats/SKILL.md)",
+      "Bash(cp '/Users/kenjijoachim/Desktop/AI consulting /linkedin-content/.claude/skills/scheduling/SKILL.md' /Users/kenjijoachim/.claude/plugins/cache/local/linkedin-content/1.0.0/skills/scheduling/SKILL.md)",
+      "Bash(cp '/Users/kenjijoachim/Desktop/AI consulting /linkedin-content/.claude/skills/engagement/SKILL.md' /Users/kenjijoachim/.claude/plugins/cache/local/linkedin-content/1.0.0/skills/engagement/SKILL.md)",
+      "Bash(cp '/Users/kenjijoachim/Desktop/AI consulting /linkedin-content/.claude/skills/repurposing/SKILL.md' /Users/kenjijoachim/.claude/plugins/cache/local/linkedin-content/1.0.0/skills/repurposing/SKILL.md)"
+    ]
+  }
+}
